@@ -2,7 +2,19 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Installation
+
+Download the zip files from the Google drive
+
+Navigate to the project folder
+
+### Install the dependencies
+
+npm install
+
+This will install the required dependencies
+
+### Usage
 
 In the project directory, you can run:
 
